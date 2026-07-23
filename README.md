@@ -318,7 +318,9 @@ It is designed as a beginner-friendly database management project that demonstra
 
 ## Adding marks for individual Students
 
-![Adding Marks](Screenshots/14.png) ![Adding Marks](Screenshots/15.png)
+![Adding Marks](Screenshots/14.png) 
+
+![Adding Marks](Screenshots/15.png)
 
 ## Viewing Students Marks
 
